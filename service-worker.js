@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/NUEG_pageSortUtility/precache-manifest.c48639e6293da122eec1fa6d28b72666.js"
+  "/NUEG_pageSortUtility/precache-manifest.e35afeaf208bac43384871a6045a6d2f.js"
 );
 
 self.addEventListener('message', (event) => {
